@@ -41,11 +41,6 @@ export default defineConfig({
         timeStyle: 'short',
       }
     },
-    editLink: {
-      pattern: 'https://github.com/ViYomX/test/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    },
-
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2024–2025, TheTeamVivek'
